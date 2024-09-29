@@ -1,4 +1,5 @@
 Project commands explanation:
+
 Note : Some commands might be missing as this file has been written three days after the project has been completed. 
 
 1. Set Up the Repository:
